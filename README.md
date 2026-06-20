@@ -1,4 +1,23 @@
 # Getting Started with Create React App
+# ToDo App
+
+## Description
+A simple ToDo application built using React.
+
+## Features
+- Add tasks
+- Delete tasks
+- edit task
+
+## Technologies Used
+- React
+- JavaScript
+- CSS
+
+## How to Run
+1. Clone the repository
+2. Run `npm install`
+3. Run `npm start`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
